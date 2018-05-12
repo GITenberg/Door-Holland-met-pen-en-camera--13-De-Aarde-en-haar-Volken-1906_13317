@@ -1,0 +1,26 @@
+_repo: Door-Holland-met-pen-en-camera--13-De-Aarde-en-haar-Volken-1906_13317
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamön, Lud. Georges
+    alias: Hamon, Lud. Georges
+    gutenberg_agent_id: '4993'
+    url: http://www.gutenberg.org/2009/agents/4993
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2004-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13317'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Netherlands -- Description and travel'
+- !lcc 'DJ'
+title: "Door Holland met pen en camera\r\nDe Aarde en haar Volken, 1906"
+url: http://www.gutenberg.org/ebooks/13317
